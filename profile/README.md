@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Verdom Studio Logo](/profiles/assets/verdom_logo.svg)
+![Verdom Studio Logo](assets/verdom_logo.svg)
 
 **Building exceptional digital experiences through innovative technology**
 
